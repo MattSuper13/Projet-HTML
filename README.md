@@ -11,3 +11,6 @@ Idées :
 - Among Us
 - Forza Horizon 5
 - Les Simpson
+- MotoGP
+- Formule 1
+- Superbike
