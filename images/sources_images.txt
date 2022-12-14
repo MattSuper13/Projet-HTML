@@ -1,0 +1,15 @@
+logo_sbk : https://www.reddit.com/r/wsbk/
+
+drapeau_aragon : https://fr.wikipedia.org/wiki/Drapeau_de_l%27Aragon
+
+circuit_aragon : https://www.racingcircuits.info/europe/spain/motorland-aragon.html
+
+drapeau_pays_bas : https://fr.wikipedia.org/wiki/Drapeau_des_Pays-Bas
+
+circuit_pays_bas : https://www.racingcircuits.info/europe/netherlands/tt-circuit-assen.html
+
+drapeau_portugal : https://fr.wikipedia.org/wiki/Drapeau_du_Portugal
+
+circuit_portugal : https://www.racingcircuits.info/europe/portugal/estoril.html
+
+logo_classe_sbk : https://commons.wikimedia.org/wiki/File:Superbike_World_Championship_logo_%282022%29.svg
