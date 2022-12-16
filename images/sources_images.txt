@@ -15,3 +15,5 @@ circuit_portugal : https://commons.wikimedia.org/wiki/File:Estoril_track_map.svg
 logo_classe_sbk : https://commons.wikimedia.org/wiki/File:Superbike_World_Championship_logo_%282022%29.svg
 
 circuit_italie : https://commons.wikimedia.org/wiki/File:Misano_World_Circuit.svg
+
+logo_classe_ssp : https://trademarks.justia.com/791/09/supersport-fim-world-79109458.html
