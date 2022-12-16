@@ -17,3 +17,7 @@ logo_classe_sbk : https://commons.wikimedia.org/wiki/File:Superbike_World_Champi
 circuit_italie : https://commons.wikimedia.org/wiki/File:Misano_World_Circuit.svg
 
 logo_classe_ssp : https://trademarks.justia.com/791/09/supersport-fim-world-79109458.html
+
+logo_classe_ssp300 : https://www.pinterest.fr/pin/641622278136254086/
+
+Top : https://vecta.io/symbols/195/symbols-arrow/6/top-arrow
