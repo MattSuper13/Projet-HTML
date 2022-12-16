@@ -10,8 +10,11 @@ color: red;
 li {
 border-style: solid;
 border-color: red;
-margin: 35px 500px 35px 35px;
+margin: 35px 800px 35px 35px;
 background-color: gray;
+width: auto;
+height: auto;
+margin: auto;
 }
 
 a {
@@ -21,3 +24,13 @@ color: white;
 a:hover {
 color: red;
 }
+
+img {
+width: 100%;
+height: auto;
+}
+
+strong {
+color: white;
+}
+
