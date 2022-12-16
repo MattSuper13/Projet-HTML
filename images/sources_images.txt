@@ -23,3 +23,33 @@ logo_classe_ssp300 : https://www.pinterest.fr/pin/641622278136254086/
 Top : https://vecta.io/symbols/195/symbols-arrow/6/top-arrow
 
 TetePilotesSSP : https://www.worldsbk.com/en/riders/ssp
+
+circuit_uk : https://commons.wikimedia.org/w/index.php?title=File:Donington_as_of_2006.svg&lang=fr&uselang=fr
+
+drapeau_uk : https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(3-5).svg?uselang=fr
+
+circuit_cz : https://commons.wikimedia.org/wiki/File:Autodrom_Most_layout.png
+
+drapeau_cz : https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg?uselang=fr
+
+circuit_fr : https://commons.wikimedia.org/wiki/File:Circuit_Magny_Cours.png?uselang=fr
+
+drapeau_fr : https://commons.wikimedia.org/wiki/File:Flag_of_France.svg?uselang=fr
+
+circuit_es : https://commons.wikimedia.org/wiki/File:Circuit_Catalunya_1995-2003.svg
+
+drapeau_es : https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg?uselang=fr
+
+circuit_pt : https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_do_Algarve_F1_Sectors.svg
+
+drapeau_argentine : https://commons.wikimedia.org/wiki/File:Flag_of_Argentina.svg?uselang=fr
+
+circuit_argentine : https://commons.wikimedia.org/wiki/File:Circuito_San_Juan_Villicum_map.svg 
+
+drapeau_indonesie : https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg?uselang=fr
+
+circuit_indonesie : https://commons.wikimedia.org/wiki/File:Mandalika_International_Street_Circuit.svg 
+
+drapeau_australie : https://commons.wikimedia.org/wiki/File:Flag_of_Australia.svg?uselang=fr
+
+circuit_australie : https://commons.wikimedia.org/wiki/File:Phillip_Island_Grand_Prix_Circuit.svg
