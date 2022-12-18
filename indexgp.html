@@ -26,12 +26,20 @@
         <p><strong> Pour plus d'infos :</strong></p>
         
         <details>
-                <summary> <img src="images/logo_classe_sbk.png" alt="Classe SBK" style="width:300px;height:75px;"> </summary> <!-- Logo du Superbike qui ouvre un menu si on clique dessus -->
+                <summary id="id1"> <img src="images/logo_classe_sbk.png" alt="Classe SBK" style="width:300px;height:75px;"> </summary> <!-- Logo du Superbike qui ouvre un menu si on clique dessus -->
                 <p> <a href=calendrier.html>Calendrier </a> <br/> <!-- Porte au calendrier -->
                     <a href=Pilotes.html>Pilotes </a> </p> <!-- Porte a la liste des pilotes -->
         </details>
 
-        <a href="formulaire.html">Donnez-nous votre avis</a> <!-- Porte au formulaire -->
+        <button type="button"
+        onclick="document.getElementById('id1').style.backgroundColor = 'red'">
+        Style 1</button>
+
+        <button type="button"
+        onclick="document.getElementById('id1').style.backgroundColor = 'blue'">
+        Style 2</button>
+
+        <br/><a href="formulaire.html">Donnez-nous votre avis</a> <!-- Porte au formulaire -->
 
     </body>
 </html>
