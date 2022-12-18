@@ -34,3 +34,16 @@ strong {
 color: white;
 }
 
+summary {
+background-color: red;
+margin: 35px 35px 35px 35px;
+}
+
+details {
+background-color: gray;
+}
+
+div {
+background-color: gray;
+}
+
