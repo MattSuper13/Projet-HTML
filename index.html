@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+    
+    <head>   
+        <!-- Page d'accueil -->      
+        <title>Accueil</title>
+        <link rel="icon" href="logo_sbk.jpg"> 
+        <link rel="icon" type="image/png" href="images/logo_sbk.jpg"> <!-- Favicon -->
+        <link rel="stylesheet" href="css/style.css"> <!-- CSS -->
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Menu du site et mini-introduction a ce qu'est le Superbike">
+    </head>
+
+    <body>
+        <h1>FIM Superbike World Championship</h1> <!-- Titre de la page -->
+        <p>
+            <strong>Accueil</strong>
+            <!-- Mini-intro au Superbike -->
+            <br/>Le championnat du monde Superbike se dispute depuis 1988. Les courses sont disputées avec des motos de série modifiées spécialement pour la course sur circuit.
+            <br/>Le pilote ayant remporté le plus de titre est Jonathan Rea <img src="images/drapeau_uk.svg" alt="UK" style="width:20px;height:15px;"> avec 6 sacres (de 2015 a 2020).
+            <br/>Pour les constructeurs, c'est Ducati <img src="images/drapeau_italie.svg" alt="Italie" style="width:20px;height:15px;"> qui en compte le plus avec 18 titres (1991-1996, 1998-2004, 2006, 2008, 2009, 2011 et 2022).
+            
+        </p>
+
+        <p><strong> Pour plus d'infos :</strong></p>
+        
+        <details>
+                <summary id="id1"> <img src="images/logo_classe_sbk.png" alt="Classe SBK" style="width:300px;height:75px;"> </summary> <!-- Logo du Superbike qui ouvre un menu si on clique dessus -->
+                <p> <a href=calendrier.html>Calendrier </a> <br/> <!-- Porte au calendrier -->
+                    <a href=Pilotes.html>Pilotes </a> </p> <!-- Porte a la liste des pilotes -->
+        </details>
+
+        <button type="button"
+        onclick="document.getElementById('id1').style.backgroundColor = 'red'">
+        Style 1</button>
+
+        <button type="button"
+        onclick="document.getElementById('id1').style.backgroundColor = 'blue'">
+        Style 2</button>
+
+        <br/><a href="formulaire.html">Donnez-nous votre avis</a> <!-- Porte au formulaire -->
+
+    </body>
+</html>
